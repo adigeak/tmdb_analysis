@@ -1,1 +1,0 @@
-# This analsis of TMDB dataset of 10000 movies
